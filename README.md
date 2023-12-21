@@ -2,7 +2,7 @@
 
 ## Projeto
 
-O projeto de Regressão de Preços de Casas tem como objetivo prever o preço de casas utilizando técnicas de Regressão Linear e Regressão Polinomial. Esse projeto foi desenvolvido durante o curso "Machine Learning e Data Science com Python de A a Z" disponível em [Udemy](https://www.udemy.com/course/machine-learning-e-data-science-com-python-y) e no curso de Regressão Linear oferecido pela plataforma Alura.
+O projeto de Regressão de Preços de Casas tem como objetivo prever o preço de casas utilizando técnicas de Regressão Linear e Regressão Polinomial. Esse projeto é composto por dois notebooks: um foi desenvolvido durante o curso "Machine Learning e Data Science com Python de A a Z" disponível em [Udemy](https://www.udemy.com/course/machine-learning-e-data-science-com-python-y) e o outro no curso de Regressão Linear oferecido pela plataforma Alura.
 
 ## Conteúdo
 
